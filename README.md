@@ -5,3 +5,5 @@ This is a Jupyter Notebook for the competition **[Digit Recognizer](https://www.
   * digit-recognizer_cnn_PyTorch.ipynb - Jupyter notebook
   * cnn_model_20241215_0639.pth - saved model
   * submission_cnn_20241215_0639.csv - submissin data with score of 0.99389
+  * train.zip - unzip at the same folder
+  * test.zip - unzip at the same folder
